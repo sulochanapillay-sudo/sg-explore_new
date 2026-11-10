@@ -1,0 +1,6 @@
+{
+  "name": "SingaScape — Singapore Tourism & Explorer Guide",
+  "description": "Interactive curated guide to Singapore's key regions, iconic attractions, hawker food trails, MRT routes, and personalized travel itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
